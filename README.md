@@ -54,7 +54,6 @@ Maintained by [u/midnightignite](https://www.reddit.com/user/midnightignite/), w
 (In this case, you can use **TorBox** or **Real-Debrid**.)
     - **TorBox:** [Subscription link](https://torbox.app/subscription?referral=298fe09b-d9f5-432b-9c79-ad94c2d0424a)
     - **Real-Debrid:** [https://real-debrid.com/premium](https://real-debrid.com/premium)
-Both of us get **7 extra days** if you use the referral code: `e41d9349-6d95-4542-a438-47320e18971c`
 
 After comparing both services over a year, **TorBox** stands out for reliability and growth. It offers cached links for new releases and allows simultaneous account use from multiple devices and locations — ideal for families.
 3. Once your service is active, click the **gear icon**, add your **API Key**, and hit **Save**.
